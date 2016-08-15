@@ -1,0 +1,1 @@
+storm<-read.csv("c://tmp//repdata_data_StormData.csv.bz2", header=T)
